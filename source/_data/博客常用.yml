@@ -1,4 +1,4 @@
-- name: dazhao's Blog🔥
+- name: webyang's Blog🔥
   url: http://www.大赵同学.top/
   img: http://www.xn--dqrr2jl2bsy4g.top/blogImgs/233.ico
   description: 我的个人博客，欢迎访问~
@@ -7,7 +7,7 @@
   img: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
   description: 本站域名管理
 - name: Vercel - Dashboard
-  url: http://website-nav.vercel.app
+  url: http://website-nav.vercel.app/
   img: https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png
   description: 本站代码部署
 - name: 腾讯云

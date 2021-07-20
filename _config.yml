@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 大赵同学的导航集
-subtitle: '大赵个人网站导航'
-description: '网站导航搜集'
-keywords: 网站导航,hexo,个人网站
+title: 大赵同学的导航部落格
+subtitle: hexo个人导航网站'
+description: '网站包含本人常用网站，同时提供多站点导航功能，若是喜欢赶紧收藏吧'
+keywords: 网址收藏,常用网址,网址导航,网址大全,dazhao's Blog,常用网站,私人导航,诗颂,大赵同学
 author: 大赵同学
-language: zh
+language: en
 timezone: ''
 
 # URL
