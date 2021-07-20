@@ -1,0 +1,36 @@
+- name: dazhao's Blog🔥
+  url: http://www.大赵同学.top/
+  img: http://www.xn--dqrr2jl2bsy4g.top/blogImgs/233.ico
+  description: 我的个人博客，欢迎访问~
+- name: 阿里云
+  url: https://account.aliyun.com/login/
+  img: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
+  description: 本站域名管理
+- name: Vercel - Dashboard
+  url: http://website-nav.vercel.app
+  img: https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png
+  description: 本站代码部署
+- name: 腾讯云
+  url: https://cloud.tencent.com/login
+  img: https://cloud.tencent.com/favicon.ico
+  description: 本站Twikoo评论系统后台
+- name: LeanCloud
+  url: https://console.leancloud.app/login
+  img: https://console.leancloud.app/favicon.ico
+  description: 本站友链朋友圈、哔哔后台
+- name: 百度搜索资源平台
+  url: https://ziyuan.baidu.com/linksubmit/index?site=http://hassanwong.top/
+  img: https://ziyuan.baidu.com/favicon.ico
+  description: 本站收录平台
+- name: 百度统计
+  url: https://tongji.baidu.com/web/10000330339/overview/index?siteId=16324130
+  img: https://tongji.baidu.com/favicon.ico
+  description: 本站数据统计
+- name: 站长工具
+  url: http://tool.chinaz.com/
+  img: http://csstools.chinaz.com/favicon.ico
+  description: 站长工具是站长的必备工具，可以了解SEO数据变化等等
+- name: 站点测速
+  url: http://ping.chinaz.com/
+  img: http://csstools.chinaz.com/favicon.ico
+  description: 可以多个地点Ping服务器以检测服务器响应速度
