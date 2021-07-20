@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 大赵同学的导航集
+subtitle: '大赵个人网站导航'
+description: '网站导航搜集'
+keywords: 网站导航,hexo,个人网站
+author: 大赵同学
+language: zh
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: webstack
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
