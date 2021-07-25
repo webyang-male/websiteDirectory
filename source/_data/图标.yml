@@ -28,7 +28,7 @@
   description: 分收费和免费版本
 - name: iconSvg
   url: https://iconsvg.xyz/
-  img: https://iconsvg.xyz/favicon-32.png
+  img: #
   description: 自定义svg图标
 - name: icon-CSS
   url: https://css.gg/
