@@ -4,7 +4,7 @@
   description: 个人hexo博客-个人小站,基于butterfly主题美化
 - name: 个人副站
   url: http://zzychaser.top/
-  img: http://zzychaser.top/yun.ico
+  img: #
   description: 基于hexo-yun主题的个人阿里云小站
 - name: LeanCloud评论管理
   url: https://pl.zzychaser.top/
@@ -20,7 +20,7 @@
   description: 写层级/内容较多的地方,基于docsify
 - name: 大赵同学的单页简介
   url: http://me.xn--dqrr2jl2bsy4g.top/
-  img: http://me.xn--dqrr2jl2bsy4g.top/images/favicon.png
+  img: #
   description: 康康就知道了
 - name: 大赵同学的图床
   url: http://img.zzychaser.top/
