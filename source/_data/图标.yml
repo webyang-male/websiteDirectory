@@ -1,0 +1,44 @@
+- name: 阿里图标
+  url: https://www.iconfont.cn/
+  img: https://img.alicdn.com/imgextra/i4/O1CN01EYTRnJ297D6vehehJ_!!6000000008020-55-tps-64-64.svg
+  description: 国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。
+- name: FontAwesome
+  url: https://fontawesome.com/v5.15/icons?d=gallery&p=2
+  img: https://fontawesome.com/favicon.ico
+  description: 知名图标,分收费和免费版本
+- name: remixicon
+  url: https://remixicon.com/
+  img: https://remixicon.com/favicon.ico
+  description: 免费可商用图标
+- name: ionicons
+  url: https://ionic.io/ionicons
+  img: https://ionic.io/ionicons/assets/img/meta/favicon-32x32.png
+  description: 开源图标,精心手工制作。
+- name: Material Design icons
+  url: https://fonts.google.com/icons?selected=Material+Icons
+  img: https://www.gstatic.com/images/branding/product/1x/google_fonts_64dp.png
+  description: 样式统一，无商标图标。谷歌出品，因国内行情，加载未必稳定。
+- name: Streamline Icons & Illustrations
+  url: https://www.flaticon.com/
+  img: https://media.flaticon.com/dist/min/img/favicon.ico
+  description: 免费矢量图标和贴纸 - PNG、SVG、EPS、PSD 和 CSS
+- name: icon8
+  url: https://icons8.com/icons
+  img: https://icons8.com/vue-static/icon/favicon/icons8_fav_32×32.png
+  description: 分收费和免费版本
+- name: iconSvg
+  url: https://iconsvg.xyz/
+  img: https://iconsvg.xyz/favicon-32.png
+  description: 自定义svg图标
+- name: icon-CSS
+  url: https://css.gg/
+  img: https://css.gg/fav/apple-icon-76x76.png
+  description: css制作的开源图标
+- name: simpleicons
+  url: https://simpleicons.org/
+  img: https://simpleicons.org/images/favicon.ico
+  description: 千余个为流行商标制作的图标库
+- name: Streamline Icons & Illustrations
+  url: https://streamlinehq.com/
+  img: #
+  description: 精美图标插画

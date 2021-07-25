@@ -1,0 +1,24 @@
+- name: Ubuntu Pastebin
+  url: https://paste.ubuntu.com/
+  img: https://paste.ubuntu.com/static/ubuntu_logo.png
+  description: 代码粘贴分享
+- name: https://pasteme.cn/
+  url: https://paste.ubuntu.com/
+  img: https://cdn.jsdelivr.net/gh/PasteUs/CDN@0.0.6/pasteme/favicon.ico
+  description: PasteMe - 一个不算糟糕的可私有文本分享平台
+- name: C/C++在线编译|onlinegdb
+  url: https://www.onlinegdb.com/
+  img: https://www.onlinegdb.com/favicon.ico
+  description:  Compiler - Code, Compile, Run, Debug online C, C++
+- name: CodeSandbox
+  url: https://codesandbox.io/
+  img: #
+  description: Online Code Editor and IDE for Rapid Web Development
+- name: codepen
+  url: https://codepen.io/
+  img: https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico
+  description: 前端代码编写
+- name: Carbon | 代码转截图
+  url: https://carbon.now.sh/
+  img: https://carbon.now.sh/favicon.ico
+  description: Create and share beautiful images of your source code

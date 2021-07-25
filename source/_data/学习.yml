@@ -2,6 +2,14 @@
   url: https://www.cnki.net/
   img: https://www.cnki.net/favicon.ico
   description: 提供中国学术文献、外文文献、学位论文、报纸等各类资源
+- name: iData-知识检索
+  url: https://www.cn-ki.net/
+  img: https://www.cn-ki.net/static/idata_logo.png
+  description: iData知识检索—免费下载学术文献,免费论文下载。
+- name: LoreFree 学术文库
+  url: http://paper.lorefree.com/
+  img: https://ebook2.lorefree.com/favicon.ico
+  description: 学术共享，资源共建，让知识自由传播
 - name: 中国大学MOOC（慕课）
   url: https://www.icourse163.org/
   img: https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png
@@ -13,8 +21,16 @@
 - name: Bilibili
   url: https://www.bilibili.com/
   img: https://www.bilibili.com/favicon.ico
-  description: 国内知名的视频弹幕网站
-- name: 菜鸟教程
-  url: https://www.runoob.com/
-  img: https://static.runoob.com/images/favicon.ico
-  description: 介绍了HTML、CSS、Javascript、Python，Java等各种编程语言的基础知识
+  description: 国内知名的视频弹幕网站(B站大学)
+- name: 慕课网
+  url: https://www.imooc.com/
+  img: https://www.imooc.com/static/img/common/touch-icon-ipad.png
+  description: 工程师带你来学习
+- name: MDN
+  url: https://developer.mozilla.org/zh-CN/
+  img: https://developer.mozilla.org/favicon-48x48.97046865.png
+  description: 前端必备文档
+- name: 现代JavaScript教程
+  url: https://zh.javascript.info/
+  img: https://zh.javascript.info/img/favicon/favicon.png
+  description: 以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。

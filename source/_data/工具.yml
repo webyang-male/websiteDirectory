@@ -1,3 +1,15 @@
+- name: 第一字体转换器
+  url: http://www.diyiziti.com/
+  img: http://www.diyiziti.com/favicon.ico
+  description: 字体转换器在线转换，艺术字体在线生成器
+- name: 字体家
+  url: https://www.zitijia.com/
+  img: https://www.zitijia.com/static/img/favicon.ico
+  description: 一家开发书法字体网站，内含正版付费、免费字体下载，另有字体在线转换程序
+- name: 优品 PPT
+  url: https://www.ypppt.com/
+  img: https://cdn.jsdelivr.net/gh/hassanblog/CDN/navi/alphabet/Letter_Y.png
+  description: 一个有情怀的免费PPT模板下载网站！
 - name: 爱设计🔥
   url: https://www.isheji.com/
   img: https://www.isheji.com/isheji_favicon.ico

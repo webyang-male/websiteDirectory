@@ -17,6 +17,7 @@ githubCorner: '<a href="https://github.com/webyang-male" class="github-corner" a
 menu:
   - name: 与我相关
     icon: far fa-star
+    config: 与我相关
   - name: 博客常用
     icon: iconfont icon-blog
     config: 博客常用
@@ -29,18 +30,27 @@ menu:
   - name: 编程
     icon: iconfont icon-code
     config: 编程
+  - name: 代码
+    icon: fas fa-laptop-code
+    config: 代码
   - name: 视图文素材
     icon: iconfont icon-photo
     config: 视图文素材
-  - name: 工具
+  - name: 图标库
+    icon: iconfont icon-photo
+    config: 图标
+  - name: 工具/办公
     icon: fas fa-tools
     config: 工具
+  - name: 考试
+    icon: fas fa-pencil-ruler
+    config: 考试
   - name: 音乐
     icon: iconfont icon-music
     config: 音乐
-  - name: 友链
-    icon: iconfont icon-blogroll
-    config: 友链
+  - name: 其它/拓展
+    icon: fas fa-plus
+    config: 其它
 
 
 
@@ -52,14 +62,14 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的小站。</p></blockquote>'
+    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>搭建的网个人网址导航集。</p></blockquote>'
   webmaster:
     head: 关于站长
     name: 大赵同学
     url: https://github.com/webyang-male
     img: /images/logos/myblog.png
-    description: 懒人一个
-    html: #'<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+    description: 立志成为前端工程师的白菜一个,skr
+    html: '<br/><p>觉得本站不错,<a href="https://github.com/webyang-male/websiteDirectory">点个star</a></p>'
 
 since: 2021
 

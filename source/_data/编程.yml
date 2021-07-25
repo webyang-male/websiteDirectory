@@ -1,3 +1,7 @@
+- name: 掘金
+  url: https://juejin.cn/
+  img: https://juejin.cn/favicons/favicon-32x32.png
+  description: 掘金 - 代码不止，掘金不停
 - name: 百度大脑 AI STUDIO
   url: https://aistudio.baidu.com/
   img: https://aistudio.baidu.com/favicon.ico
@@ -18,3 +22,31 @@
   url: https://www.nowcoder.com/
   img: https://static.nowcoder.com/images/logo_87_87.png
   description: 在线进行企业校招实习笔试面试真题模拟考试练习，全面提升求职竞争力，找到好工作，拿到好offer
+- name: 壹题汇总 | 木易杨前端进阶
+  url: https://muyiy.cn/question/
+  img: #
+  description: 高级前端进阶之路
+- name: freeCodecamp 中文社区
+  url: https://learn.freecodecamp.one/
+  img: https://learn.freecodecamp.one/assets/favicon-64x64.png
+  description: 免费在线学编程、项目实战、面试攻略、找到一份好工作。
+- name: 传统算法-吴师兄学编程
+  url: https://www.cxyxiaowu.com/suanfa-2/suanfa
+  img: #
+  description: 刷题
+- name: 大前端面试题库-面试刷题
+  url: http://bigerfe.com/
+  img: http://qiniu.bigerfe.com/logo2.jpg
+  description: 前端刷题
+- name: 开卷题库
+  url: http://kaijuan.co/quiz?c_id=2
+  img: http://qiniu.bigerfe.com/logo2.jpg
+  description: 前端刷题https://www.acmcoder.com/index
+- name: 【赛码网】
+  url: https://www.acmcoder.com/index
+  img: https://www.acmcoder.com/images/acm.ico
+  description: 赛码网-IT笔试面试加分利器，最新最全C++、JAVA、Python、前端等海量真题题库。
+- name: LintCode 领扣
+  url: https://www.lintcode.com/problem/
+  img: https://www.acmcoder.com/images/acm.ico
+  description: 领扣, 面试题, 在线评测, 算法, 数据结构, 面试, 代码

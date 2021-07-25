@@ -1,0 +1,12 @@
+- name: 全国计算机等级考试考务管理系统
+  url: https://ncre-bm.neea.cn/
+  img: 	https://ncre-bm.neea.cn/Images/ncrelogo.jpg
+  description: 计算机等级考试官网
+- name: 全国大学英语四、六级考试(CET)
+  url: http://cet.neea.edu.cn/
+  img: http://cet.neea.edu.cn/res/Home/favicon.ico
+  description: 全国大学英语四、六级考试(CET) - 中国教育考试网
+- name: 国家软考
+  url: http://apply.hbsoft.net/
+  img: http://apply.hbsoft.net/ui/favicon.ico
+  description: 国家软考 - 计算机技术与软件专业技术资格（水平）考试
