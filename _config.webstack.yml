@@ -37,7 +37,7 @@ menu:
     icon: iconfont icon-photo
     config: 视图文素材
   - name: 图标库
-    icon: iconfont icon-photo
+    icon: fas fa-icons
     config: 图标
   - name: 工具/办公
     icon: fas fa-tools
