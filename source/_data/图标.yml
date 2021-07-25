@@ -12,7 +12,7 @@
   description: 免费可商用图标
 - name: ionicons
   url: https://ionic.io/ionicons
-  img: https://ionic.io/ionicons/assets/img/meta/favicon-32x32.png
+  img: #
   description: 开源图标,精心手工制作。
 - name: Material Design icons
   url: https://fonts.google.com/icons?selected=Material+Icons

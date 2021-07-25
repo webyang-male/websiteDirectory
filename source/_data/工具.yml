@@ -1,6 +1,6 @@
 - name: 第一字体转换器
   url: http://www.diyiziti.com/
-  img: http://www.diyiziti.com/favicon.ico
+  img: #
   description: 字体转换器在线转换，艺术字体在线生成器
 - name: 字体家
   url: https://www.zitijia.com/
@@ -24,15 +24,15 @@
   description: 封面制作网站
 - name: Brandmark🔥
   url: https://app.brandmark.io/v3/
-  img: https://app.brandmark.io/favicon32.gif
+  img: #
   description: Logo制作网站
 - name: Convertio 文件转换器
   url: https://convertio.co/
-  img: https://static.convertio.co/favicon.ico
+  img: #
   description: 将您的文件转换成任意格式
 - name: Aconvert
   url: https://www.aconvert.com/
-  img: https://www.aconvert.com/favicon.ico
+  img: #
   description: 格式转换网站
 - name: ProcessOn
   url: https://www.processon.com/

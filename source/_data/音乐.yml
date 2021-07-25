@@ -1,6 +1,6 @@
 - name: 音乐搜索器
   url: www.musictool.top
-  img: http://www.musictool.top/favicon.ico
+  img: #
   description: 免费音乐下载
 - name: 5sing 中国原创音乐基地
   url: 5sing.kugou.com/index.html
@@ -8,7 +8,7 @@
   description: 免费伴奏、翻唱、音乐下载
 - name: 讯飞配音
   url: http://peiyin.xunfei.cn/
-  img: http://peiyin.xunfei.cn/themes/images/bigpeiyinge_favicon.ico
+  img: #
   description: 海量样音模板，配音场景覆盖，优秀配音团队
 - name: 全民K歌
   url: https://kg.qq.com/

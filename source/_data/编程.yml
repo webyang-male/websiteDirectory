@@ -28,7 +28,7 @@
   description: 高级前端进阶之路
 - name: freeCodecamp 中文社区
   url: https://learn.freecodecamp.one/
-  img: https://learn.freecodecamp.one/assets/favicon-64x64.png
+  img: #
   description: 免费在线学编程、项目实战、面试攻略、找到一份好工作。
 - name: 传统算法-吴师兄学编程
   url: https://www.cxyxiaowu.com/suanfa-2/suanfa
@@ -36,11 +36,11 @@
   description: 刷题
 - name: 大前端面试题库-面试刷题
   url: http://bigerfe.com/
-  img: http://qiniu.bigerfe.com/logo2.jpg
+  img: #
   description: 前端刷题
 - name: 开卷题库
   url: http://kaijuan.co/quiz?c_id=2
-  img: http://qiniu.bigerfe.com/logo2.jpg
+  img: #
   description: 前端刷题https://www.acmcoder.com/index
 - name: 【赛码网】
   url: https://www.acmcoder.com/index
