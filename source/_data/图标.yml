@@ -20,7 +20,7 @@
   description: 样式统一，无商标图标。谷歌出品，因国内行情，加载未必稳定。
 - name: Streamline Icons & Illustrations
   url: https://www.flaticon.com/
-  img: https://media.flaticon.com/dist/min/img/favicon.ico
+  img: #
   description: 免费矢量图标和贴纸 - PNG、SVG、EPS、PSD 和 CSS
 - name: icon8
   url: https://icons8.com/icons
