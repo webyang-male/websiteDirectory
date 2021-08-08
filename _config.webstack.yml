@@ -41,7 +41,7 @@ menu:
     config: 图标
   - name: 办公
     icon: fas fa-tools
-    config: 工具
+    config: 办公
   - name: 考试
     icon: fas fa-pencil-ruler
     config: 考试
