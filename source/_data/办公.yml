@@ -20,7 +20,7 @@
   description: 在线图表制作工具,数据可视化工具
 - name: 搜图神器
   url: https://www.logosc.cn/so/
-  img: https://www.logosc.cn/img/so/search_logo.png
+  img: #
   description: 免版权图片，高清图片，商用图片，搜图神器
 - name: 搜图神器
   url: https://www.alltoall.net/
@@ -116,7 +116,7 @@
   description: 在线绘图网站
 - name: 完美韵脚
   url: http://www.wanmeiyunjiao.com/
-  img: http://www.wanmeiyunjiao.com/static/tab_logo.ico
+  img: #
   description: 一个帮助词作人、诗人和文案创作者创作的押韵搜索网站
 - name: 押韵助手
   url: https://yayun.la/
