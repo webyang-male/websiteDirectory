@@ -1,7 +1,79 @@
-- name: 第一字体转换器
+- name: PPT超级市场
+  url: https://pptsupermarket.com/
+  img: #
+  description: 免费优质高效安全的PPT模板下载与PPT定制网站
+- name: Make A Pie
+  url: https://www.makeapie.com/explore.html
+  img: #
+  description: echarts自由创作者案例
+- name: 山海鲸数据可视化
+  url: https://www.shanhaibi.com/
+  img: #
+  description: 大屏软件_海量数据可视化大屏模板_免费一键使用
+- name: ChartCube
+  url: https://chartcube.alipay.com/guide
+  img: #
+  description: 免费在线在线图表制作工具
+- name: 图表秀
+  url: http://www.tubiaoxiu.com/
+  img: #
+  description: 在线图表制作工具,数据可视化工具
+- name: 搜图神器
+  url: https://www.logosc.cn/so/
+  img: https://www.logosc.cn/img/so/search_logo.png
+  description: 免版权图片，高清图片，商用图片，搜图神器
+- name: 搜图神器
+  url: https://www.alltoall.net/
+  img: #
+  description: PDF转Word | 免费在线PDF转Word |  PDF转Word转换器 | PDF转化速度快 | 首页
+- name: 泥石流海报
+  url: https://graph.readhub.cn/
+  img: #
+  description: 免费在线简易海报生成
+- name: 文档在线转换
   url: http://www.diyiziti.com/
   img: #
+  description: 完全匿名 PDF 轉換器 - 免費、線上、匿名
+- name: easyPdf
+  url: https://easypdf.com/cn
+  img: #
   description: 字体转换器在线转换，艺术字体在线生成器
+- name: 免费字体网
+  url: https://ziyouziti.com/
+  img: #
+  description: 免费字体下载_免费商用字体_免费字体网_自由字体官网
+- name: 创客贴
+  url: https://www.chuangkit.com/designtools/designindex
+  img: #
+  description: 广告设计印刷_图片一键生成_设计图片素材大全
+- name: 耳聆网(声音分享云|音效素材库)
+  url: https://www.ear0.com/
+  img: #
+  description: 声音,音效,音频,录音,配音,拟音,分享,上传,声音素材,声音下载,音效素材,音效下载
+- name: smallPDF
+  url: https://smallpdf.com/cn
+  img: #
+  description: 免费让您轻松转换和编辑所有PDF文件的平台。一个网站就能解决您所有的PDF问题
+- name: Chart.js
+  url: https://chartjs.bootcss.com/
+  img: #
+  description: Chart.js是一套简单、干净并且有吸引力的基于 HTML5 技术的 JavaScript 图表工具。
+- name: 在线表格生成
+  url: https://tableconvert.com/
+  img: 
+  description: 
+- name: css渐变色
+  url: https://uigradients.com/#Decent
+  img: #
+  description: css渐变色
+- name: 微词云 
+  url: https://www.weiciyun.com/
+  img: 
+  description: 简单强大的文字云艺术生成器
+- name: diagrams.net
+  url: https://app.diagrams.net/
+  img: 
+  description: 流程图在线绘画
 - name: 字体家
   url: https://www.zitijia.com/
   img: https://www.zitijia.com/static/img/favicon.ico
@@ -70,3 +142,11 @@
   url: https://www.library.ac.cn/
   img: https://cdn.jsdelivr.net/gh/hassanblog/CDN/navi/alphabet/Letter_M.png
   description: 访问海外镜像站点列表
+- name: FlowCV
+  url: https://flowcv.io/?utm_source=hao.logosc.cn&utm_medium=referral
+  img: #
+  description: 在线免费制作简历
+- name: 在线水印管家
+  url: https://www.apowersoft.cn/online-watermark-remover
+  img: #https://www.logosc.cn/so/
+  description: 在线快速去除图片/视频水印，免费易用的去水印

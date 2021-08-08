@@ -1,3 +1,7 @@
+- name: 掘金
+  url: https://juejin.cn/
+  img: https://juejin.cn/favicons/favicon-32x32.png
+  description: 掘金 - 代码不止，掘金不停
 - name: 中国知网
   url: https://www.cnki.net/
   img: https://www.cnki.net/favicon.ico

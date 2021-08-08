@@ -1,7 +1,3 @@
-- name: 掘金
-  url: https://juejin.cn/
-  img: https://juejin.cn/favicons/favicon-32x32.png
-  description: 掘金 - 代码不止，掘金不停
 - name: 百度大脑 AI STUDIO
   url: https://aistudio.baidu.com/
   img: https://aistudio.baidu.com/favicon.ico

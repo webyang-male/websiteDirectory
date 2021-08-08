@@ -1,4 +1,48 @@
+- name: 苋菜红 - 中国色 - 中国传统颜色
+  url: http://zhongguose.com/#xiancaihong
+  img: http://zhongguose.com/img/favicon.ico
+  description: 中国色, 中国传统色, 色名, 色谱, 中国色名综览
+- name: 全古籍_全历史
+  url: https://www.allhistory.com/book/home-list
+  img: #
+  description: 全历史古籍收藏几十万全世界多种语言的古代，近现代书籍。
+- name: 百灵
+  url: https://l8ai.com/
+  img: #
+  description: 文章润色
+- name: 狗屁不通文章生成器
+  url: https://suulnnka.github.io/BullshitGenerator/index.html
+  img: #
+  description: 沙雕文章生成器
 - name: ZZKIA|诺基亚短信图片生成器
   url: https://zzkia.noddl.me/
-  img: https://zzkia.noddl.me/favicon.png
+  img: #
   description: 抖音微博爆款诺基亚短信图片生成器,生成老式手机短信图片。
+- name: 王境泽-为所欲为表情包
+  url: https://sorry.xuty.cc/wangjingze/
+  img: #
+  description: 在线生成 王境泽 为所欲为 表情包
+- name: 舔狗日记|每日一文
+  url: https://wangpinpin.com/
+  img: #
+  description: 小破站 - 舔狗日记|每日一文
+- name: 中国人的表情包
+  url: https://www.v2fy.com/p/000readme-chinesebqb/
+  img: https://www.v2fy.com/wp-content/uploads/2021/03/cropped-v2fy-ico-32x32.png
+  description: 中国人的表情包-PP制造计划 – V2方圆
+- name: 彩虹屁生成器
+  url: https://chp.shadiao.app/
+  img: https://chp.shadiao.app/images/chp.png
+  description: 彩虹屁生成器 | chp.shadiao.app
+- name: 发散光生成器
+  url: https://wangyasai.github.io/Stars-Emmision/
+  img: #
+  description: 发散光生成器
+- name: 朋友圈文案生成器
+  url: https://pyq.shadiao.app/#index
+  img: #
+  description: 朋友圈文案生成器,朋友圈文案大全,朋友圈文案,史上最全朋友圈文案
+- name: 沙雕APP - 沙雕导航
+  url: https://shadiao.app/#index
+  img: #
+  description: 沙雕APP,骂人宝典,口吐芬芳,火力全开,彩虹屁,彩虹屁生成器,朋友圈文案,朋友圈文案生成器,记仇表情包,记仇表情生成器,毒鸡汤,毒鸡汤生成器
