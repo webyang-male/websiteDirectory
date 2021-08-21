@@ -3,3 +3,5 @@
 README.md
 LICENSE
 update.sh
+.dist/
+node_modules/
