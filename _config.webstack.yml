@@ -48,7 +48,7 @@ menu:
   - name: 音乐
     icon: iconfont icon-music
     config: 音乐
-  - name: 其它/拓展
+  - name: 其它拓展
     icon: fas fa-plus
     config: 其它
 

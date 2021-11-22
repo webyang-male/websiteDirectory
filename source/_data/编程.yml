@@ -12,7 +12,7 @@
   description: 编程刷题平台
 - name: 力扣 LeetCode
   url: https://leetcode-cn.com/
-  img: https://leetcode-cn.com/favicon.ico
+  img: #
   description: 编程刷题平台
 - name: 牛客网 NOWCODER
   url: https://www.nowcoder.com/
@@ -40,9 +40,9 @@
   description: 前端刷题https://www.acmcoder.com/index
 - name: 【赛码网】
   url: https://www.acmcoder.com/index
-  img: https://www.acmcoder.com/images/acm.ico
+  img: #
   description: 赛码网-IT笔试面试加分利器，最新最全C++、JAVA、Python、前端等海量真题题库。
 - name: LintCode 领扣
   url: https://www.lintcode.com/problem/
-  img: https://www.acmcoder.com/images/acm.ico
+  img: #
   description: 领扣, 面试题, 在线评测, 算法, 数据结构, 面试, 代码

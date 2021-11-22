@@ -1,6 +1,6 @@
 - name: Ubuntu Pastebin
   url: https://paste.ubuntu.com/
-  img: https://paste.ubuntu.com/static/ubuntu_logo.png
+  img: #
   description: 代码粘贴分享
 - name: https://pasteme.cn/
   url: https://paste.ubuntu.com/
