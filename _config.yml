@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 大赵同学的导航部落格
-subtitle: 个人导航
+title: 大赵同学
+subtitle: 大赵同学的导航部落格
 description: '网站包含本人常用网站，同时提供多站点导航功能，若是喜欢赶紧收藏吧'
 keywords: 网址收藏,常用网址,网址导航,网址大全,dazhao's Blog,常用网站,私人导航,诗颂,大赵同学
 author: 大赵同学
@@ -28,7 +28,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: baidu_verify_code-FmEoVVRuTT.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
