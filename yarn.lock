@@ -675,9 +675,9 @@ hexo-util@^2.0.0, hexo-util@^2.4.0, hexo-util@^2.5.0:
     prismjs "^1.17.1"
     strip-indent "^3.0.0"
 
-hexo@^5.0.0:
-  version "5.4.0"
-  resolved "https://registry.npmjs.org/hexo/-/hexo-5.4.0.tgz"
+hexo@^5.4.1:
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/hexo/-/hexo-5.4.1.tgz#a552bf7a25af7d4d7535839bcf3e7f1ff03c4593"
   dependencies:
     abbrev "^1.1.1"
     archy "^1.0.0"
@@ -690,6 +690,7 @@ hexo@^5.0.0:
     hexo-log "^2.0.0"
     hexo-util "^2.4.0"
     js-yaml "^4.0.0"
+    js-yaml-js-types "^1.0.0"
     micromatch "^4.0.2"
     moment "^2.22.2"
     moment-timezone "^0.5.21"
@@ -819,6 +820,12 @@ jake@^10.6.1:
     chalk "^2.4.2"
     filelist "^1.0.1"
     minimatch "^3.0.4"
+
+js-yaml-js-types@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/js-yaml-js-types/-/js-yaml-js-types-1.0.0.tgz#bf17cb75c7587c698294d15bbfa5f9b8b10b874b"
+  dependencies:
+    esprima "^4.0.1"
 
 js-yaml@^3.13.1:
   version "3.14.1"
