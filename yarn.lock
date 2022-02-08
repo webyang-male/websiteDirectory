@@ -654,9 +654,9 @@ hexo-theme-landscape@^0.0.3:
   version "0.0.3"
   resolved "https://registry.npmjs.org/hexo-theme-landscape/-/hexo-theme-landscape-0.0.3.tgz"
 
-hexo-theme-webstack@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.npmjs.org/hexo-theme-webstack/-/hexo-theme-webstack-2.0.5.tgz"
+hexo-theme-webstack@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-theme-webstack/-/hexo-theme-webstack-2.1.0.tgz#fc277a6ed06ba325d71d644b621083ad64cba17f"
 
 hexo-util@^2.0.0, hexo-util@^2.4.0, hexo-util@^2.5.0:
   version "2.5.0"
