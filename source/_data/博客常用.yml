@@ -30,3 +30,11 @@
   url: http://ping.chinaz.com/
   img: http://csstools.chinaz.com/favicon.ico
   description: 可以多个地点Ping服务器以检测服务器响应速度
+- name: 营销自动化
+  url: https://www.tidio.com/panel/conversations
+  img: https://www.tidio.com/panel/favicon.ico
+  description: 实时评论
+- name: LeanCloud评论管理
+  url: https://console.leancloud.app/
+  img: https://cdn.jsdelivr.net/gh/sviptzk/StaticFile_HEXO@v3.2.3/butterfly/img/favicon.ico
+  description: 见名知义
