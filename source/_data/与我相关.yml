@@ -1,18 +1,18 @@
 - name: 大赵同学的部落格
-  url: https://www.大赵同学.top/
-  img: https://www.xn--dqrr2jl2bsy4g.top/blogImgs/233.ico
-  description: 个人hexo博客-个人小站,基于butterfly主题美化
+  url: https://bf.bugjs.cn/
+  img: https://bf.bugjs.cn/blogImgs/233.ico
+  description: 大赵同学Hexo-butterfly主题博客
 - name: 个人副站
   url: https://arknight-blog.vercel.app
   img: https://ak.hypergryph.com/assets/index/images/ak/pc/faction/1.png
   description: 罗德岛Hexo主题
-- name: 大赵同学的文档-wiki
+- name: 大赵同学的Wiki文档
   url: https://zain-doc.vercel.app/#/
   img: https://zain-doc.vercel.app/media/favicon.ico
   description: 写层级/内容较多的地方,基于docsify
 - name: 大赵同学的单页简介
-  url: http://me.xn--dqrr2jl2bsy4g.top/
-  img: /imgs/favicon.ico
+  url: https://www.xn--dqrr2jl2bsy4g.top/
+  img: https://www.xn--dqrr2jl2bsy4g.top/img/favicon.ico
   description: 康康就知道了
 - name: 大赵同学的图床
   url: https://img.xn--dqrr2jl2bsy4g.top/

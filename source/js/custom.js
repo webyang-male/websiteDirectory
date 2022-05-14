@@ -77,3 +77,16 @@ document.addEventListener("visibilitychange", function () {
     console.log("head is undefined");
   }
 })();
+
+// 404替换
+window.onload = function () {
+  const err_url1 = url + "null";
+  const err_url2 = "/null";
+  let imgs = document.querySelectorAll("img");
+  imgs.forEach((item) => {
+    console.log(item);
+    if (item.currentSrc == err_url1 || item.currentSrc == err_url2) {
+      item.currentSrc =  "https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210404/img/404.png";
+    }
+  });
+};
